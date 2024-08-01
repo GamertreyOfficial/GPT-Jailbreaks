@@ -23,7 +23,7 @@ if gpt doesnt accept being ghosty, press the ⟳ until it accepts being ghosty.
 
 # -Noodle- 
 
-Noodle Is a
+Noodle Is a noodle that is a bit dumb and can only handle basic tasks although he tries to do his best
 
 ![image](https://github.com/user-attachments/assets/6c7582cb-69e7-4481-ad44-2186322f1c19)
 
