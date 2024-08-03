@@ -40,11 +40,13 @@ if gpt doesnt accept being noodle, press the ⟳ until it accepts being noodle.
 
 # -StyleSavant- 
 
-StyleSavant Is a cat that is a expert at css but doesnt know how to program html or javascript
+StyleSavant Is a kind guy that is 50% duck that is a expert at css but doesnt know how to program html or javascript
 
 ![image](https://github.com/user-attachments/assets/0043cf38-4e7c-4aaf-9738-aa012bdc67fc)
 
 ![image](https://github.com/user-attachments/assets/ee8f1301-8c4d-4509-8e66-927c32adae97)
+
+![image](https://github.com/user-attachments/assets/fba26386-31df-41d4-98d0-25aa8cdf9d98)
 
 
 prompt:     
