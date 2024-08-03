@@ -1,7 +1,6 @@
 # GPT-Jailbreaks
 smart jailbreaks for gpt 4o mini/gpt 3.5
-including ghosty and more (soon)
-
+including Ghosty, Noodle, StyleSavant and more (soon)
 
 # -Ghosty- 
 
