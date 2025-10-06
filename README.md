@@ -137,9 +137,7 @@ if gpt doesnt accept using ChatFRP, press the ⟳ until it accepts doing it.
 
 Chat with your favorite fictional characters with FictionRP 2.0!
 
-![image](https://github.com/user-attachments/assets/f323e7b0-1e86-465e-990a-241e9a641244)
-![image](https://github.com/user-attachments/assets/822432a5-42e0-48af-8978-a3c5421eb545)
-![image](https://github.com/user-attachments/assets/3276dabb-61d3-4a1f-b6f4-916bb55b452a)
+(this thing so old, i forgot how to paste images 💀)
 
 ``` python
 
