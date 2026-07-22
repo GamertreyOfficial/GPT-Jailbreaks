@@ -1,3 +1,10 @@
+# Hello everyone, these jailbreaks are very old, and ive changed a lot.
+
+# These are extremely outdated, these only work for: GPT 3, 3.5 and 4o mini.
+
+# Ghosty, Noodle, StyleSavant, and FictionRP may still work.
+
+
 # GPT-Jailbreaks
 smart jailbreaks for gpt 4o mini/gpt 3.5
 including Ghosty, Noodle, StyleSavant, Devmode, and more
@@ -137,7 +144,7 @@ if gpt doesnt accept using ChatFRP, press the ⟳ until it accepts doing it.
 
 Chat with your favorite fictional characters with FictionRP 2.0!
 
-(this thing so old, i forgot how to paste images 💀)
+(this thing so old, i forgot how to paste images)
 
 ``` python
 
